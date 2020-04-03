@@ -1,5 +1,7 @@
 # Object file
 *.o
+You can create a .gitignore file in your repository's root directory to tell Git which files and directories to ignore when you make a commit. To share the ignore rules with other users who clone the repository, commit the .gitignore file in to your repository.
 
+GitHub maintains an official list of recommended .gitignore files for many popular operating systems, environments, and languages in the github/gitignore public repository. You can also use gitignore.io to create a .gitignore file for your operating system, programming language, or IDE. For more information, see "github/gitignore" and the "gitignore.io" site.
 # Ada Library Information
 *.ali
